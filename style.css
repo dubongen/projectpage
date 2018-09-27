@@ -1,0 +1,54 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px;
+  background-color: black;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+
+.left{
+  float: left;
+  margin: 100px;
+
+}
+
+.right{
+  float: right;
+  margin: 100px;
+
+}
+
+.center{
+  margin-left: 450px;
+  margin-right: 450px;
+
+}
+
+#navbar ul{
+  list-style-type: none;
+  height: 50px;
+  border-radius: 5px;
+  margin: 0;
+  padding: 0;
+  background-color: #DADADA;
+}
+
+#navbar li{
+  display: inline-block;
+  border-right: 1px gray;
+  padding: 14px 25px;
+}
+
+#navbar a{
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+#project-wrapper {
+  text-align: center;
+
+}
